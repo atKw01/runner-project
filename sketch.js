@@ -1,7 +1,7 @@
 var path,boy, leftBoundary,rightBoundary;
 var pathImg,boyImg;
 var i;
-var drink, drinkImg, pwr, pwer, coin, bomb;
+//var drink, drinkImg, pwr, pwer, coin, bomb;
 
 function preload(){
   pathImg = loadImage("path.png");
